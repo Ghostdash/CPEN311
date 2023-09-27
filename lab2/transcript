@@ -1,0 +1,19 @@
+# Compile of task2.sv was successful.
+# Compile of fillscreen.sv was successful.
+# Compile of tb_syn_fillscreen.sv was successful.
+# Compile of tb_rtl_fillscreen.sv was successful.
+# Compile of tb_circle.sv was successful.
+# Compile of circle.sv was successful.
+# Compile of tb_reuleaux.sv was successful.
+# Compile of vga_pll.sv was successful.
+# Compile of vga_adapter.sv was successful.
+# Compile of vga_address_translator.sv was successful.
+# Compile of vga_controller.sv was successful.
+# Compile of tb_task2.sv was successful.
+# Compile of tb_task3.sv was successful.
+# Compile of task3.sv was successful.
+# Compile of task4.sv was successful.
+# Compile of tb_syn_task4.sv was successful.
+# Compile of tb_task4.sv was successful.
+# Compile of reuleaux.sv was successful.
+# 18 compiles, 0 failed with no errors.

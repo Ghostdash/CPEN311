@@ -1,0 +1,6 @@
+
+State Machine - |task3|arc4:a4|sel_data
+Name sel_data.00 sel_data.10 sel_data.01 
+sel_data.00 0 0 0 
+sel_data.01 1 0 1 
+sel_data.10 1 1 0 

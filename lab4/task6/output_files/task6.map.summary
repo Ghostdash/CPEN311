@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Mon Dec 05 10:08:40 2022
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : task6
+Top-level Entity Name : task6
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 1936
+Total pins : 133
+Total virtual pins : 0
+Total block memory bits : 492,672
+Total DSP Blocks : 3
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 2
+Total DLLs : 0

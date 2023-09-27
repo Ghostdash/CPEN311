@@ -1,0 +1,131 @@
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of arc4.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of tb_rtl_task5.sv was successful.
+# Compile of crack.sv failed with 1 errors.
+# Compile of doublecrack.sv failed with 5 errors.
+# Compile of task5.sv was successful.
+# 8 compiles, 2 failed with 6 errors.
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of arc4.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of tb_rtl_task5.sv was successful.
+# Compile of crack.sv was successful.
+# Compile of doublecrack.sv failed with 4 errors.
+# Compile of task5.sv was successful.
+# 8 compiles, 1 failed with 4 errors.
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of arc4.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of tb_rtl_task5.sv was successful.
+# Compile of crack.sv was successful.
+# Compile of doublecrack.sv failed with 2 errors.
+# Compile of task5.sv was successful.
+# 8 compiles, 1 failed with 2 errors.
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of arc4.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of tb_rtl_task5.sv was successful.
+# Compile of crack.sv was successful.
+# Compile of doublecrack.sv was successful with warnings.
+# Compile of task5.sv was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of arc4.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of tb_rtl_task5.sv was successful.
+# Compile of crack.sv was successful.
+# Compile of doublecrack.sv was successful.
+# Compile of task5.sv was successful.
+# 8 compiles, 0 failed with no errors.
+# Load canceled
+project open C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/task4/task4
+# reading C:/intelFPGA_lite/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project task4
+# Compile of tb_rtl_task4.sv was successful.
+# Compile of task4.sv was successful.
+# Compile of s_mem.v was successful.
+# Compile of pt_mem.v was successful.
+# Compile of arc4.sv was successful.
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of ct_mem.v was successful.
+# Compile of crack.sv was successful.
+# Compile of tb_rtl_crack.sv was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui -L altera_mf_ver -L altera_mf_ver work.tb_rtl_crack
+# vsim -gui -L altera_mf_ver -L altera_mf_ver work.tb_rtl_crack 
+# Start time: 08:13:37 on Nov 07,2022
+# Loading sv_std.std
+# Loading work.tb_rtl_crack
+# Loading work.crack
+# Loading work.pt_mem
+# Loading altera_mf_ver.altsyncram
+# Loading work.arc4
+# Loading work.s_mem
+# Loading work.init
+# Loading work.ksa
+# Loading work.prga
+# Loading work.ct_mem
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+run -all
+# ** Error: Assertion error.
+#    Time: 38 ps  Scope: tb_rtl_crack File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task4/tb_rtl_crack.sv Line: 29
+# ** Note: $stop    : C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task4/tb_rtl_crack.sv(30)
+#    Time: 38 ps  Iteration: 0  Instance: /tb_rtl_crack
+# Break in Module tb_rtl_crack at C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task4/tb_rtl_crack.sv line 30
+add wave -position insertpoint  \
+sim:/tb_rtl_crack/clk \
+sim:/tb_rtl_crack/ct_addr \
+sim:/tb_rtl_crack/ct_rddata \
+sim:/tb_rtl_crack/ct_wrdata \
+sim:/tb_rtl_crack/ct_wren \
+sim:/tb_rtl_crack/en \
+sim:/tb_rtl_crack/key \
+sim:/tb_rtl_crack/key_valid \
+sim:/tb_rtl_crack/rdy \
+sim:/tb_rtl_crack/rst_n
+restart -f
+run -all
+# ** Error: Assertion error.
+#    Time: 38 ps  Scope: tb_rtl_crack File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task4/tb_rtl_crack.sv Line: 29
+# ** Note: $stop    : C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task4/tb_rtl_crack.sv(30)
+#    Time: 38 ps  Iteration: 0  Instance: /tb_rtl_crack
+# Break in Module tb_rtl_crack at C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task4/tb_rtl_crack.sv line 30
+# Compile of tb_rtl_task4.sv was successful.
+# Compile of task4.sv was successful.
+# Compile of s_mem.v was successful.
+# Compile of pt_mem.v was successful.
+# Compile of arc4.sv was successful.
+# Compile of init.sv was successful.
+# Compile of ksa.sv was successful.
+# Compile of prga.sv was successful.
+# Compile of ct_mem.v was successful.
+# Compile of crack.sv was successful.
+# Compile of tb_rtl_crack.sv was successful.
+# 11 compiles, 0 failed with no errors.
+restart -f
+# Loading work.tb_rtl_crack
+# Loading work.crack
+# Loading work.pt_mem
+# Loading work.arc4
+# Loading work.s_mem
+# Loading work.init
+# Loading work.ksa
+# Loading work.prga
+# Loading work.ct_mem
+run -all
+# Break key hit
+# Break in Module altsyncram_body at /build/swbuild/SJ/nightly/19.1std/670/l64/work/modelsim/eda/sim_lib/altera_mf.v line 49951
+# Error opening C:/build/swbuild/SJ/nightly/19.1std/670/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# Path name 'C:/build/swbuild/SJ/nightly/19.1std/670/l64/work/modelsim/eda/sim_lib/altera_mf.v' doesn't exist.
+# End time: 08:17:05 on Nov 07,2022, Elapsed time: 0:03:28
+# Errors: 3, Warnings: 0

@@ -1,0 +1,226 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/task3
+varc4
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1667834838
+!i10b 1
+!s100 OERV>Ze9:GKFSk8<KzLGR1
+Ik;>]Shk2Y^fbcSm]EkHz51
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 arc4_sv_unit
+S1
+Z3 dC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/task5
+w1667810123
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1667834838.000000
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vcrack
+R0
+R1
+!i10b 1
+!s100 1i]=Mbc<9R<GQA7;B;g@80
+ILKHFTmU0XlaBkXEXd8MY@1
+R2
+!s105 crack_sv_unit
+S1
+R3
+w1667834590
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/crack.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/crack.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/crack.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/crack.sv|
+!i113 1
+R6
+R7
+vdoublecrack
+R0
+R1
+!i10b 1
+!s100 OADn1edK]L@EH^@?OK7m60
+I<m=m4Yl?Mig=_7YW_Li0o0
+R2
+!s105 doublecrack_sv_unit
+S1
+R3
+w1667834835
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/doublecrack.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/doublecrack.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/doublecrack.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/doublecrack.sv|
+!i113 1
+R6
+R7
+vinit
+R0
+R1
+!i10b 1
+!s100 dl6Y0XA:hJP3h6Z8dd3Z63
+IGzzF74D@@@QR2Z2RT9MiE2
+R2
+!s105 init_sv_unit
+S1
+R3
+w1667714093
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task1/init.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task1/init.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task1/init.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task1/init.sv|
+!i113 1
+R6
+R7
+vksa
+R0
+R1
+!i10b 1
+!s100 VJDMR2Z<aKan8B`>YK?l<2
+I@]h;KH9Og5lJCE?Lk?z^V3
+R2
+!s105 ksa_sv_unit
+S1
+R3
+w1667797374
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv|
+!i113 1
+R6
+R7
+vprga
+R0
+R1
+!i10b 1
+!s100 QHzm[;m2USLd:FMkY=NRK0
+I8T2DAg]SV2@AZ>>Y[;>l83
+R2
+!s105 prga_sv_unit
+S1
+R3
+w1667830531
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/prga.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/prga.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/prga.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/prga.sv|
+!i113 1
+R6
+R7
+vseg7
+R0
+R1
+!i10b 1
+!s100 _>j0PDJ0U50;:g?BGA;Dm2
+IKA<47EMI<]JX3_b;@=BeU2
+R2
+Z8 !s105 task5_sv_unit
+S1
+R3
+Z9 w1667834391
+Z10 8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/task5.sv
+Z11 FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/task5.sv
+L0 76
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/task5.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/task5.sv|
+!i113 1
+R6
+R7
+vtask5
+R0
+R1
+!i10b 1
+!s100 eBDzCoVS0NC_9bPNk6hfP2
+Id^]3XPZa9[QMTcYdN3RL:2
+R2
+R8
+S1
+R3
+R9
+R10
+R11
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7
+vtb_rtl_task5
+R0
+R1
+!i10b 1
+!s100 9eHQNH=oQeXMoT4dOJW4R1
+IP@06:kgCd0R[Segk3c`Pl1
+R2
+!s105 tb_rtl_task5_sv_unit
+S1
+R3
+w1667834571
+8C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/tb_rtl_task5.sv
+FC:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/tb_rtl_task5.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/tb_rtl_task5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/tb_rtl_task5.sv|
+!i113 1
+R6
+R7

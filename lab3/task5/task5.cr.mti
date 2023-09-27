@@ -1,0 +1,44 @@
+C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/tb_rtl_task5.sv {1 {vlog -work work -sv -stats=none C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/tb_rtl_task5.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_rtl_task5
+
+Top level modules:
+	tb_rtl_task5
+
+} {} {}} C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/task5.sv {1 {vlog -work work -sv -stats=none C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task5/task5.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task5
+-- Compiling module seg7
+
+Top level modules:
+	task5
+
+} {} {}} C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/prga.sv {1 {vlog -work work -sv -stats=none C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/prga.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module prga
+
+Top level modules:
+	prga
+
+} {} {}} C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv {1 {vlog -work work -sv -stats=none C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module arc4
+
+Top level modules:
+	arc4
+
+} {} {}} C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv {1 {vlog -work work -sv -stats=none C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ksa
+
+Top level modules:
+	ksa
+
+} {} {}} C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task1/init.sv {1 {vlog -work work -sv -stats=none C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task1/init.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module init
+
+Top level modules:
+	init
+
+} {} {}}

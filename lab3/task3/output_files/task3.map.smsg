@@ -1,0 +1,9 @@
+Warning (10268): Verilog HDL information at task3.sv(40): always construct contains both blocking and non-blocking assignments File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/task3.sv Line: 40
+Info (10281): Verilog HDL Declaration information at task3.sv(1): object "KEY" differs only in case from object "key" in the same scope File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/task3.sv Line: 1
+Warning (10268): Verilog HDL information at arc4.sv(43): always construct contains both blocking and non-blocking assignments File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task3/arc4.sv Line: 43
+Warning (10273): Verilog HDL warning at ksa.sv(92): extended using "x" or "z" File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv Line: 92
+Warning (10273): Verilog HDL warning at ksa.sv(93): extended using "x" or "z" File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv Line: 93
+Warning (10273): Verilog HDL warning at ksa.sv(99): extended using "x" or "z" File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv Line: 99
+Warning (10273): Verilog HDL warning at ksa.sv(105): extended using "x" or "z" File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv Line: 105
+Warning (10273): Verilog HDL warning at ksa.sv(122): extended using "x" or "z" File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv Line: 122
+Warning (10273): Verilog HDL warning at ksa.sv(123): extended using "x" or "z" File: C:/Users/weiya/OneDrive/Desktop/CPEN311/lab3/2022w1-lab3-l1b-lab3-group27/task2/ksa.sv Line: 123
